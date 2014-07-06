@@ -1,0 +1,13 @@
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com.br/?gws_rd=cr&amp;ei=P4VuU82eA4vJsQSn7ILYCw">here</A>.
+</BODY></HTML>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.terra.com.br/?novo_portal=1">here</a>.</p>
+</body></html>
